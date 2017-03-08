@@ -22,7 +22,7 @@
     }
   }
 
-  &:hover {
+  &.active {
     border-radius: 50%;
     border-color: $secondary;
 
